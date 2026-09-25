@@ -1,4 +1,4 @@
-# TJ Dev Studio
+# SillyPad Games
 
 **We build worlds from data. The engine renders them.**
 
@@ -16,13 +16,13 @@ We built the **tooling** to make AI agents first-class collaborators in game dev
 
 ## Open Source
 
-**[blocks](https://github.com/TJ-Dev-Studio/blocks)** — Composable block primitive library for Godot 4. 551 tests. Declarative world construction at any scale — geometry, connections, messaging, visual state. The foundation of everything we render.
+**[blocks](https://github.com/sillypad-games/blocks)** — Composable block primitive library for Godot 4. 551 tests. Declarative world construction at any scale — geometry, connections, messaging, visual state. The foundation of everything we render.
 
-**[godot-agent-kit](https://github.com/TJ-Dev-Studio/godot-agent-kit)** — AI agent toolkit for Godot 4 visual iteration. Capture screenshots, simulate input, and iterate on game visuals — all without a display.
+**[godot-agent-kit](https://github.com/sillypad-games/godot-agent-kit)** — AI agent toolkit for Godot 4 visual iteration. Capture screenshots, simulate input, and iterate on game visuals — all without a display.
 
-**[godot-preview](https://github.com/TJ-Dev-Studio/godot-preview)** · **[godot-interact](https://github.com/TJ-Dev-Studio/godot-interact)** — Headless Godot 4 screenshot capture and input simulation.
+**[godot-preview](https://github.com/sillypad-games/godot-preview)** · **[godot-interact](https://github.com/sillypad-games/godot-interact)** — Headless Godot 4 screenshot capture and input simulation.
 
-**[tapestry](https://github.com/TJ-Dev-Studio/tapestry)** — Persistent concept graph for LLM pipelines. Rich, connected memory for agents. Zero dependencies.
+**[tapestry](https://github.com/sillypad-games/tapestry)** — Persistent concept graph for LLM pipelines. Rich, connected memory for agents. Zero dependencies.
 
 ---
 
